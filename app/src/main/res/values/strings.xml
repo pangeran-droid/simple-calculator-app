@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Calculator</string>
+    <string name="header_text">Identity</string>
+    <string name="full_name">Name: Your Name</string>
+    <string name="full_nim">Student ID: Your Student ID</string>
+    <string name="full_major">Major: Your Major</string>
+    <string name="note_text">Enter your name to access this app.</string>
+    <string name="input_name_label">Enter your name</string>
+    <string name="input_name_required">Please enter your name.</string>
+    <string name="submit_button_text">Open App</string>
+
+    <!-- Calculator App -->
+    <string name="calculator_title">Calculator</string>
+    <string name="calculator_welcome_text">Hello %s, we hope you enjoy using this app!</string>
+    <string name="calculator_input1_hint">Enter first number</string>
+    <string name="calculator_input2_hint">Enter second number</string>
+    <string name="calculator_add_button">+</string>
+    <string name="calculator_subtract_button">-</string>
+    <string name="calculator_multiply_button">*</string>
+    <string name="calculator_divide_button">÷</string>
+    <string name="calculator_clear_button">Clear</string>
+    <string name="calculator_result_empty">Result: -</string>
+    <string name="calculator_result_text">Result: %s</string>
+</resources>
